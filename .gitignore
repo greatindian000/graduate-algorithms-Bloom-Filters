@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+*.json
+results
+graphs
+Submission
